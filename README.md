@@ -12,7 +12,7 @@ Welcome to the **Movie Recommendation System**! This project leverages **NLP**, 
 
 ## 📽️ Watch the Game in Action!
 
-👉 Check out our gameplay video here: [Flappy Bird Gameplay](https://www.loom.com/share/589263b58d1b4e6e827d495e99923f21?sid=3008e2ce-d970-4303-8fd1-395c63b3163a)
+👉 Check out our gameplay video here: [Movie Recommendation System](https://www.loom.com/share/589263b58d1b4e6e827d495e99923f21?sid=3008e2ce-d970-4303-8fd1-395c63b3163a)
 
 
 Check out the **live demo** to see the system in action!
