@@ -12,7 +12,12 @@ Here's an enhanced and visually appealing README for your project, utilizing ico
 
 Welcome to the **Movie Recommendation System**! This project leverages **NLP**, **machine learning**, and the power of the **TMDB API** to suggest movies based on the selected title. Using **cosine similarity** and a variety of NLP techniques like stemming and vectorization, this system recommends the most relevant movies to users. The UI is built with **Streamlit**, offering an easy-to-use interface for movie lovers 🎥🍿.
 
-🔗 **[Demo Video](https://www.loom.com/share/19409b6c0c314a8482bdf46fed64b500?sid=284df75f-ab43-4385-88d8-54184308ebb9)**  
+
+## 📽️ Watch the Game in Action!
+
+👉 Check out our gameplay video here: [Flappy Bird Gameplay](https://www.loom.com/share/589263b58d1b4e6e827d495e99923f21?sid=3008e2ce-d970-4303-8fd1-395c63b3163a)
+
+
 Check out the **live demo** to see the system in action!
 
 ## 🛠 **Tech Stack**
@@ -83,7 +88,8 @@ nltk.download('stopwords')
 
 **Movie Recommendation System UI:**
 
-![Movie Recommendation UI](https://user-images.githubusercontent.com/yourimagepath)
+![s1](https://github.com/user-attachments/assets/8313e787-d0d2-4865-9e2b-0160bba2d8ca)
+![s2](https://github.com/user-attachments/assets/cb161da4-60d3-4e2f-8526-ba8c3d064d8a)
 
 ---
 
