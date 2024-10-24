@@ -4,9 +4,6 @@ Here's an enhanced and visually appealing README for your project, utilizing ico
 
 # 🎬 **Movie Recommendation System** 🍿
 
-[![GitHub followers](https://img.shields.io/github/followers/ZubairZubii?style=social)](https://github.com/ZubairZubii)  
-[![GitHub stars](https://img.shields.io/github/stars/ZubairZubii?style=social)](https://github.com/ZubairZubii)  
-[![GitHub forks](https://img.shields.io/github/forks/ZubairZubii?style=social)](https://github.com/ZubairZubii)
 
 ## 🚀 **About The Project**
 
